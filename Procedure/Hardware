@@ -1,0 +1,15 @@
+#Procedure
+The system started by collecting images that will be used to train the model. 
+Then, the images were annotated to make them a complete dataset. The images in the dataset then go through preprocessing. 
+The images in the dataset then go through preprocessing. Here the preprocessing processes used were resize and auto contrast. 
+The preprocessed data is then used to train the model. The models used here are several types of YOLOv5, YOLOv6, and YOLOv7. 
+The preprocessed data is then used to train the model. The models used here are several types of YOLOv5, YOLOv6, and YOLOv7. 
+
+#Hardware
+##Look at FIG 2.
+The black arrow shows the power connection between items, where the red arrows show both power and data. 
+From the image, NUC plays the role of the processor, where the main process is done here. 
+This is where the object detection model runs. It is then connected to the arduino and camera. 
+The Arduino then sends PWM signals to the motor driver, which in turn controls the motor’s movement based on the received signals. 
+The driver then moves the motor based on the signal received
+Power source used in the circuit is from the battery, which is connected to the switch and  power indicator.
