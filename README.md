@@ -1,4 +1,4 @@
-# Smart Wheelchair Navigation using YOLO
+# Enhancing-Smart-Wheelchair-Navigation-through-Head-Motion-Detection: A YOLO-based Approach
 
 ## Overview
 This project presents a **smart wheelchair navigation system** that leverages **YOLO-based head motion detection** to assist individuals with physical disabilities. The system uses a camera to detect head movements and translates them into navigation commands, providing a hands-free mobility solution.
